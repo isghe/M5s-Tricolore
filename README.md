@@ -2,7 +2,7 @@
 
 26 Ottobre 2017
 
-Propongo un nuovo logo, una nuova Bandiera per il M5s, analogo al precedente, ma con l'aggiunta del Tricolore Italiano.
+Propongo un nuovo logo, una nuova bandiera per il M5s, analogo al precedente, ma con l'aggiunta del Tricolore Italiano.
 
 ## Motivazioni
 
@@ -21,3 +21,6 @@ Auspico che questa modifica, possa contribuire ad evitare, che tali oltraggi pos
 
 Cordiali saluti,
 Isidoro Ghezzi
+
+Il M5s siamo noi!
+Viva l'Italia!
